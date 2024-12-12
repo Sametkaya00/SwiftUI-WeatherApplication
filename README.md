@@ -12,7 +12,7 @@
 - Weather-appropriate visuals and temperature information.
 - This is our screen that includes information such as minimum temperature, maximum temperature, wind, and humidity
 
-## Tanıtım Videosu
+## Promotional video
 
 
 
